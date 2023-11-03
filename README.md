@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 The Sales Data Analysis project is a comprehensive data analysis initiative aimed at unraveling key insights from sales data to empower data-driven decision-making. The project focuses on scrutinizing sales data to identify trends, pinpoint top-selling products, and measure crucial revenue metrics, all of which are vital for steering the business in the right direction.
 
-**Key Highlights of the Project:**
+**Key Highlights of the Project:***
 
 **Data Analysis**: The project involves in-depth data analysis to identify trends, understand the performance of products, and extract essential business metrics.
 
